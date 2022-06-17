@@ -1,0 +1,51 @@
+body{
+    background-color: beige;
+}
+
+.common{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%
+}
+
+.resize{
+    width:400px;
+    height:auto;
+}
+
+
+.h1{
+    font-weight:bold;
+    font-size:32px;
+    text-align:center;
+}
+
+.h2{
+    font-size:20px;
+}
+
+.title{
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.u{
+    text-decoration:underline;
+}
+
+.footer{
+    text-align:center; 
+    
+}
+
+.div{
+    padding: 25px;
+    text-align:right;
+}
